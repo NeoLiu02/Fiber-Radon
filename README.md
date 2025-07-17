@@ -1,2 +1,2 @@
 # Fiber-Radon
-Image transmission through multimode fibers via memory effect-inspired Radon domain learning
+Rotational memory effect-inspired Radon domain learning empowers image transmission through multimode fibers
